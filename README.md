@@ -1,5 +1,4 @@
-### Hi there 👋
-<p align="center">[![Chandra Prakash J Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=bittujpatel&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>[![bittujpatel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bittujpatel)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bittujpatel&langs_count=20&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper">
+###<p align="center">[![Chandra Prakash J Patel's GitHub stats](https://github-readme-stats.vercel.app/api?username=bittujpatel&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>[![bittujpatel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bittujpatel)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bittujpatel&langs_count=20&layout=compact&hide=html,css&card_width=317)](https://github.com/anuraghazra/github-readme-stats) <img src="https://github.githubassets.com/images/mona-whisper.gif" title="mona-whisper">
 </p>
 
 <!--
