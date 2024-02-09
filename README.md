@@ -2,8 +2,8 @@
 
 ## 23 | (he/him).
 
-- 👔 I currently work as a Technical Author - PLM Engineer at [Capgemin](https://capgemini.com/).
-- 🌱 I’m currently learning AzureAI and API documentation.
+- 👔 I currently work as a Technical Author - PLM Engineer at [Capgemini ♠️](https://capgemini.com/).
+- 🌱 I’m currently learning AzureAI, Web Development and API documentation.
 - 🗯️ I'm into Design and Documentation of Mechanical components. 
 - 📃 I Write and Review clear and concise standard technical documentation with CAD
 Illustrations that is easy to understand for a variety of audiences, including engineers, technicians, and with subject matter experts..
