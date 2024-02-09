@@ -1,4 +1,28 @@
 <h1 align="center">:wave: Hi, I'm Chandra Prakash J Patel</h1>
+
+## 23 | (he/him).
+
+- 👔 I currently work as a Technical Author - PLM Engineer at [Capgemin](https://capgemini.com/).
+- 🌱 I’m currently learning AzureAI and API documentation.
+- 🗯️ I'm into Design and Documentation of Mechanical components. 
+- 📃 I Write and Review clear and concise standard technical documentation with CAD
+Illustrations that is easy to understand for a variety of audiences, including engineers, technicians, and with subject matter experts..
+- 👯 I’m looking to collaborate and learn with analysts, developers and tech writers.
+- 🥅 2024 Goals: Build more, Document more!
+
+### Languages and Tools:
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="26px"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</br>
+
+</br>
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
