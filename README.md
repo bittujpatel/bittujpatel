@@ -1,8 +1,8 @@
 <h1 align="center">:wave: Hi, I'm Chandra Prakash J Patel</h1>
 
-## 23 | (he/him).
+## 24 | (he/him).
 
-- 👔 I currently work as a Technical Author - PLM Engineer at [Capgemini ♠️](https://capgemini.com/).
+- 👔 I work as a Technical Author - PLM Engineer at [Capgemini ♠️](https://capgemini.com/).
 - 🌱 I’m currently learning AzureAI, Web Development and API documentation.
 - 🗯️ I'm into Design and Documentation of Mechanical components. 
 - 📃 I Write and Review clear and concise standard technical documentation with CAD
