@@ -3,7 +3,7 @@
 ## 25 | (he/him).
 
 - 👔 I work as a Technical Author - PLM Engineer at [Bread Financial 🍞](https://breadfinancial.com) and earlier at [Capgemini ♠️](https://capgemini.com/).
-- 🌱 I’m currently learning Products Mangagement, Quant, Statistics, and API documentation.
+- 🌱 I’m currently learning Product Mangagement, Quant, Statistics, and API documentation.
 - 🗯️ I'm into Design and Documentation of Mechanical parts and components. 
 - 📃 I Write and Review clear and concise standard technical documentation with CAD
 Illustrations that is easy to understand for a variety of audiences, including engineers, technicians, and with subject matter experts..
